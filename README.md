@@ -24,5 +24,15 @@ PySide6を使用しています。`main.py` が起動ファイルで、EXE化す
 コンパイルすると、main.pyと同じ場所にdistフォルダが作成され、その中にmain.exeが作成されます。
 exe化した場合、main.exeと同じ場所にassetsフォルダを再配置してください。
 
+## 使用したNYN姉貴素材
+
+sm30598781.mp4
+sm31945874.mp4
+sm30761410.mp4
+sm32184120.mp4
+sm33898287.mp4
+https://www.axfc.net/u/3844454.zip
+
+
 
 
