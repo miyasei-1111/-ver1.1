@@ -21,16 +21,6 @@ PySide6を使用しています。`main.py` が起動ファイルで、EXE化す
 アイコンを設定したい場合
 "python -m PyInstaller --noconsole --noconfirm --icon=アイコンのファイル名.ico main.py"でコンパイル
 
-## 使用したNYN姉貴素材
-
-sm30598781.mp4
-sm31945874.mp4
-sm30761410.mp4
-sm32184120.mp4
-sm33898287.mp4
-https://www.axfc.net/u/3844454.zip
-
-
 
 
 
