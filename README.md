@@ -17,9 +17,9 @@ python main.py
 ## EXE化
 
 PySide6を使用しています。`main.py` が起動ファイルで、EXE化する場合のエントリポイントです。
-"python -m PyInstaller --noconsole --noconfirm main.py"でコンパイル
+"python -m PyInstaller --noconsole --noconfirm main.py"でコンパイルしてください
 アイコンを設定したい場合
-"python -m PyInstaller --noconsole --noconfirm --icon=アイコンのファイル名.ico main.py"でコンパイル
+"python -m PyInstaller --noconsole --noconfirm --icon=アイコンのファイル名.ico main.py"でコンパイルしてください
 
 
 
