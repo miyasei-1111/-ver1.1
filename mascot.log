@@ -1,0 +1,2 @@
+2026-11-19 20:11:14,084 [MainThread] INFO 起動します (Python 3.10.11)
+2026-11-19 20:11:15,300 [MainThread] INFO 起動完了: 1.11 秒 / メモリ 70 MB / {'gen': 1, 'comp_MB': 0.8, 'comp_n': 37, 'hot_MB': 0.0, 'hot_n': 0, 'evicted': 0, 'failed': 0, 'pending': 0}
